@@ -1,4 +1,4 @@
-# CyberTranscribe 3999 — Kuga V2
+# CyberTranscribe 3999 — KugaGT
 
 A Streamlit-based neural transcription and translation engine powered by [faster-whisper](https://github.com/SYSTRAN/faster-whisper), with LLM post-processing, hallucination filtering, domain presets, and multi-format subtitle export.
 
@@ -36,8 +36,8 @@ A Streamlit-based neural transcription and translation engine powered by [faster
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/kuga-transcribe.git
-cd kuga-transcribe
+git clone https://github.com/Scav-engeR/KugaGT.git
+cd KugaGT
 pip install -r requirements.txt
 ```
 
@@ -183,4 +183,4 @@ winget install ffmpeg
 
 ## License
 
-MIT
+Apache
